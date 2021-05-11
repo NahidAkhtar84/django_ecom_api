@@ -1,0 +1,8 @@
+
+#Products
+
+## To view all the products, To add a new product to the list
+products -> api -> all_products
+
+## To view onne particular product, To update the information of that product, To delete the product
+products -> api -> all_products -> (primary_key)
